@@ -13,5 +13,4 @@ In conclusion, designing and simulating digital logic circuits using Verilog wit
 
 output:
 ![WhatsApp Image 2024-08-26 at 17 59 48_c5ff0c5c](https://github.com/user-attachments/assets/865e7e02-8d8d-4929-9c9f-be15e4430b2d)
-![WhatsApp Image 2024-08-26 at 17 59 48_045ec893](https://github.com/user-attachments/assets/de3a9d62-6c20-4eb9-8b15-a6ffddfd0e76)
 
